@@ -1,0 +1,32 @@
+[
+  {
+    "model": "27GP750-B",
+    "title": "Игровой монитор 27'' UltraGear",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/27GP750-B/27GP750-B_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/27GP750-B/27GP750-B_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/27GP750-B/27GP750-B_03.png"
+    ],
+    "description": "• 27-дюймовый дисплей Full HD (1920 x 1080).<br>• Частота Обновления 240 Гц.<br>• Время отклика пикселя - IPS 1ms (GtG).<br>• HDR10 & sRGB 99% (Тип.).<br>• NVIDIA® G-SYNC® Совместимость/ AMD FreeSync™ Premium."
+  },
+  {
+    "model": "32MP60G-B",
+    "title": "31,5-дюймовый IPS-монитор Full HD с AMD FreeSync ™",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/32MP60G-B/32MP60G-B_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/32MP60G-B/32MP60G-B_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/32MP60G-B/32MP60G-B_03.png"
+    ],
+    "description": "•Full HD IPS монитор.<br>•Технология AMD FreeSync ™.<br>•1 мс MBR (уменьшение искажений в движении).<br>•Режим чтения.<br>•Безопасное мерцание.<br>•Управление на экране."
+  },
+  {
+    "model": "27UP650-W",
+    "title": "27'' UHD 4K IPS монитор, имеющий сертификат VESA DisplayHDR™ 400",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/27UP650-W/27UP650-W_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/27UP650-W/27UP650-W_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/monitor%20png/27UP650-W/27UP650-W_03.png"
+    ],
+    "description": "•27-дюймовый UHD 4K IPS дисплей.<br>•DCI-P3 95% (Станд.).<br>•Поддержка стандарта VESA DisplayHDR™ 400.<br>•AMD FreeSync™.<br>•Функция Dynamic Action Sync, Стабилизатор чёрного.<br>•Высота, угол наклона и ориентация экрана регулируются."
+  }
+]
