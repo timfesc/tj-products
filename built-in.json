@@ -1,0 +1,42 @@
+[
+  {
+    "model": "WSEZM7225B1",
+    "title": "Встраиваемый духовой шкаф",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/WSEZM7225B1/WSEZM7225B1_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/WSEZM7225B1/WSEZM7225B1_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/WSEZM7225B1/WSEZM7225B1_03.png"
+    ],
+    "description": "• Объем 72 литра.<br>• Равномерное приготовление/Множество режимов приготовления.<br>• Телескопические направляющие/Съемное стекло в дверце.<br>• Высокий класс энергоэффективности A."
+  },
+  {
+    "model": "LB645E329T1",
+    "title": "Встраиваемый духовой шкаф LG Studio",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/LB645E329T1/LB645E329T1_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/LB645E329T1/LB645E329T1_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/LB645E329T1/LB645E329T1_03.png"
+    ],
+    "description": "• Объем 67 литра.<br>• LG Studio.<br>• Множество режимов приготовления.<br>• Телескопические направляющие/Съемное стекло в дверце.<br>• Высокий класс энергоэффективности A."
+  },
+  {
+    "model": "HU641PH",
+    "title": "Встраиваемая индукционная варочная поверхность",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/HU641PH/HU641PH_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/HU641PH/HU641PH_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/HU641PH/HU641PH_03.png"
+    ],
+    "description": "•Встраиваемая индукционная панель.<br>• LG Studio.<br>• Быстрый разогрев Power Boost.<br>• Индикатор остаточного тепла.<br>• Таймер приготовления."
+  },
+  {
+    "model": "MS2595CIST",
+    "title": "Встраиваемая микроволновая печь",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/MS2595CIST/MS2595CIST_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/MS2595CIST/MS2595CIST_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/MS2595CIST/MS2595CIST_03.png"
+    ],
+    "description": "•Встраиваемая микроволновая печь LG Studio.<br>• Объем 25.<br>• Антибактериальное легкоочищаемое покрытие EasyClean.<br>• Технология Smart Inverter.<br>• Мощность микроволн 1000 Вт."
+  }
+]
