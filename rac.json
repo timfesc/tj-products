@@ -1,0 +1,72 @@
+[
+  {
+    "model": "AC18BK",
+    "title": "Кондиционер LG ARTCOOL Mirror",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC18BK/AC18BK_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC18BK/AC18BK_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC18BK/AC18BK_03.png"
+    ],
+    "description": "• Площадь охлаждения 54 кв.м.<br>• Компрессор Dual Inverter.<br>• Зеркальный дизайн ARTCOOL.<br>• UVnano™.<br>• Plasmaster™ Ionizer++."
+  },
+  {
+    "model": "AC12BK",
+    "title": "Кондиционер LG ARTCOOL Mirror",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC12BK/AC12BK_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC12BK/AC12BK_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC12BK/AC12BK_03.png"
+    ],
+    "description": "• Площадь охлаждения 36 кв.м.<br>• Компрессор Dual Inverter.<br>• Зеркальный дизайн ARTCOOL.<br>• UVnano™.<br>• Plasmaster™ Ionizer++."
+  },
+  {
+    "model": "AC09BK",
+    "title": "Кондиционер LG ARTCOOL Mirror",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC09BK/AC09BK_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC09BK/AC09BK_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/AC09BK/AC09BK_03.png"
+    ],
+    "description": "• Площадь охлаждения 27 кв.м.<br>• Компрессор Dual Inverter.<br>• Зеркальный дизайн ARTCOOL.<br>• UVnano™.<br>• Plasmaster™ Ionizer++."
+  },
+  {
+    "model": "A12GA1",
+    "title": "Кондиционер LG ARTCOOL Gallery Deluxe",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A12GA1/A12GA1_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A12GA1/A12GA1_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A12GA1/A12GA1_03.png"
+    ],
+    "description": "• Площадь охлаждения 36 кв.м.<br>• Компрессор Dual Inverter.<br>• Дизайн ARTCOOL Gallery Deluxe.<br>• Очищение замораживанием Freeze Cleaning.<br>• Возможность смены картины."
+  },
+  {
+    "model": "A09GA1",
+    "title": "Кондиционер LG ARTCOOL Gallery Deluxe",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A09GA1/A09GA1_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A09GA1/A09GA1_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A09GA1/A09GA1_03.png"
+    ],
+    "description": "• Площадь охлаждения 27 кв.м.<br>• Компрессор Dual Inverter.<br>• Дизайн ARTCOOL Gallery Deluxe.<br>• Очищение замораживанием Freeze Cleaning.<br>• Возможность смены картины."
+  },
+  {
+    "model": "A09GA2",
+    "title": "Кондиционер LG ARTCOOL Gallery Premium",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A09GA2/A09GA2_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A09GA2/A09GA2_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A09GA2/A09GA2_03.png"
+    ],
+    "description": "• Площадь охлаждения 27 кв.м.<br>• Компрессор Dual Inverter.<br>• 27' Full HD LCD Дисплей.<br>• Очищение замораживанием Freeze Cleaning.<br>• Возможность смены картины с помощью приложения ThinQ."
+  },
+  {
+    "model": "A12GA2",
+    "title": "Кондиционер LG ARTCOOL Gallery Premium",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A12GA2/A12GA2_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A12GA2/A12GA2_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/air%20conditioners%20png/A12GA2/A12GA2_03.png"
+    ],
+    "description": "• Площадь охлаждения 36 кв.м.<br>• Компрессор Dual Inverter.<br>• 27' Full HD LCD Дисплей.<br>• Очищение замораживанием Freeze Cleaning.<br>• Возможность смены картины с помощью приложения ThinQ."
+  }
+]
