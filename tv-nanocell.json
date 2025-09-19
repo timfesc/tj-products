@@ -1,0 +1,32 @@
+[
+  {
+    "model": "NANO756QA",
+    "title": "LG NanoCell SMART 4K 65''",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO756QA/NANO756QA_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO756QA/NANO756QA_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO756QA/NANO756QA_03.png"
+    ],
+    "description": "•Реалистичная цветопередача в качестве Real 4K.<br>•Технология NanoCell.<br>•Интеллектуальный процессор LG α5 Gen5 4K.<br>•ThinQ AI."
+  },
+  {
+    "model": "NANO766PA",
+    "title": "LG NanoCell SMART 4K 50''55''",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO766PA/NANO766PA_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO766PA/NANO766PA_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO766PA/NANO766PA_03.png"
+    ],
+    "description": "•Яркие впечатления. Реальный 4К.<br>•Технология NanoCell.<br>•Точность цветопередачи."
+  },
+  {
+    "model": "NANO81A6A",
+    "title": "LG NanoCell SMART 4K 50''55''65''75''86''",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO81A6A/NANO81A6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO81A6A/NANO81A6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/NANO81A6A/NANO81A6A_03.png"
+    ],
+    "description": "•Качество изображения 4K, улучшенная визуализация и объемный звук благодаря ИИ-процессору alpha 7 4K Gen8.<br>•Новая кнопка ИИ, голосовое управление, функции перетаскивания на пульте AI Magic Remote.<br>•Чистые цвета в настоящем 4K: яркие оттенки в сочетании с поразительной детализацией.<br>•Наслаждайтесь высоким разрешением, яркостью и четкостью изображения благодаря 4K Super Upscaling.<br>•Высокое разрешение на огромном экране Ultra Big TV."
+  }
+]
