@@ -1,0 +1,52 @@
+[
+  {
+    "model": "GC-X257CAEV",
+    "title": "Холодильник Side-by-side с технологией InstaView™",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-X257CAEV/GC-X257CAEV_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-X257CAEV/GC-X257CAEV_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-X257CAEV/GC-X257CAEV_03.png"
+    ],
+    "description": "• Полезный объем: 617 л.<br>• Быстрое и равномерное охлаждение LG DoorCooling+™/Технология InstaView™/Технология Door-in-Door.<br>• Smart Invertor Compressor™/Антибактериальный фильтр Hygiene Fresh+/Технология UVnano™.<br>• Диспенсер для воды.<br>• Низкий уровень шума 36 дБ."
+  },
+  {
+    "model": "GC-Q257CAFV",
+    "title": "Холодильник Side-by-side с технологией InstaView™",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-Q257CAFV/GC-Q257CAFV_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-Q257CAFV/GC-Q257CAFV_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-Q257CAFV/GC-Q257CAFV_03.png"
+    ],
+    "description": "• Полезный объем: 647 л.<br>• Быстрое и равномерное охлаждение LG DoorCooling+™/Технология InstaView™/Технология Door-in-DOor.<br>• Smart Invertor Compressor™/Антибактериальный фильтр Hygiene Fresh+/Технология UVnano™.<br>• Диспенсер для воды.<br>• Низкий уровень шума 36 дБ."
+  },
+  {
+    "model": "GC-Q257CAFC",
+    "title": "Холодильник Side-by-side",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-Q257CAFC/GC-Q257CAFC_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-Q257CAFC/GC-Q257CAFC_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-Q257CAFC/GC-Q257CAFC_03.png"
+    ],
+    "description": "• Полезный объем: 647 л.<br>• Быстрое и равномерное охлаждение LG DoorCooling+™/Технология InstaView™/Технология Door-in-Door.<br>• Smart Invertor Compressor™.<br>• Антибактериальный фильтр Hygiene Fresh+.<br>• Низкий уровень шума 36 дБ."
+  },
+  {
+    "model": "GC-B257SMZV",
+    "title": "Холодильник Side-by-side",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-B257SMZV/GC-B257SMZV_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-B257SMZV/GC-B257SMZV_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-B257SMZV/GC-B257SMZV_03.png"
+    ],
+    "description": "• Полезный объем: 647 л.<br>• Быстрое и равномерное охлаждение LG DoorCooling+™.<br>• Smart Invertor Compressor™.<br>• Антибактериальный фильтр Hygiene Fresh+.<br>• Низкий уровень шума 36 дБ."
+  },
+  {
+    "model": "GC-B257JLYV",
+    "title": "Холодильник Side-by-side",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-B257JLYV/GC-B257JLYV_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-B257JLYV/GC-B257JLYV_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/refrigerators%20png/GC-B257JLYV/GC-B257JLYV_03.png"
+    ],
+    "description": "• Полезный объем: 643 л.<br>• Технология Multi Air Flow.<br>• Smart Invertor Compressor™.<br>• Fresh Zone.<br>• Низкий уровень шума 36 дБ."
+  }
+]
