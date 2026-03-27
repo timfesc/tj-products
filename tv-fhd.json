@@ -1,21 +1,21 @@
 [
   {
-    "model": "LM550BPLB",
+    "model": "32LM550BPLB",
     "title": "LG LED FHD SMART 32''",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/LM550BPLB/LM550BPLB_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/LM550BPLB/LM550BPLB_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/LM550BPLB/LM550BPLB_03.png"
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/FHD/32LM550BPLB/1.png",
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/FHD/32LM550BPLB/2.png",
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/FHD/32LM550BPLB/3.jpg"
     ],
     "description": "•HD телевизор.<br>•Virtual Surround.<br>•Dynamic Color.<br>•Clear Voice."
   },
   {
-    "model": "LQ630B6LA",
+    "model": "32LQ630B6LA",
     "title": "LG LED FHD SMART 32''",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/LQ630B6LA/LQ630B6LA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/LQ630B6LA/LQ630B6LA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/LQ630B6LA/LQ630B6LA_03.png"
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/FHD/32LQ630B6LA/1.png",
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/FHD/32LQ630B6LA/2.png",
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/FHD/32LQ630B6LA/3.png"
     ],
     "description": "•Разрешение HD.<br>• Частота обновления 60 Гц.<br>•Интеллектуальный процессор α5 Gen5.<br>•Smart TV на операционной системе WebOS.<br>•Уровень яркости HDR10 Pro регулируется таким образом, чтобы улучшить цвет и четкость каждого изображения."
   }
