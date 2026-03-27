@@ -30,16 +30,6 @@
     "description": "•Телевизор Real 4K для любых экранных развлечений.<br>•Четырехъядерный процессор 4K.<br>•ThinQ AI- управление домашними устройствами.<br>•Filmmaker mode™.<br>•HDR 10 Pro и HLG Pro.<br>•Сверхобъемный звук Ultra Surround."
   },
   {
-    "model": "UN81006LB",
-    "title": "LG UHD SMART 4K 55''",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UN81006LB/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UN81006LB/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UN81006LB/3.png"
-    ],
-    "description": "Описание недоступно."
-  },
-  {
     "model": "UP77006LB",
     "title": "LG UHD SMART 4K 50''55''",
     "images": [
@@ -154,7 +144,7 @@
     "model": "UT91006LA",
     "title": "LG UHD SMART 4K 43''50''55''65''75''",
     "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UT91006LA/1.png",
+      "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UT91006LA/1.jpeg",
       "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UT91006LA/2.png",
       "https://raw.github.com/alen-omarbayev/tj-images/main/TV/UHD/UT91006LA/3.png"
     ],
