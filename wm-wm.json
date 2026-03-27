@@ -260,16 +260,6 @@
     "description": "•Inverter Direct Drive.<br>•6 Motion.<br>•Steam.<br>•Загрузка 7 кг.<br>•Smart Diagnosis."
   },
   {
-    "model": "F2V3GS3W",
-    "title": "Стиральная машина AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V3GS3W/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V3GS3W/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V3GS3W/3.png"
-    ],
-    "description": "•Inverter Direct Drive.<br>•Steam+.<br>•Загрузка 8.5 кг.<br>•Smart Diagnosis."
-  },
-  {
     "model": "F2M5HS6S",
     "title": "Стиральная машина с прямым приводом DD™",
     "images": [
@@ -339,37 +329,7 @@
     ],
     "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•Загрузка 7 кг.<br>•ThinQ."
   },
-  {
-    "model": "F2V5HS0W",
-    "title": "Стиральная машина AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V5HS0W/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V5HS0W/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V5HS0W/3.png"
-    ],
-    "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•Загрузка 7 кг.<br>•ThinQ."
-  },
-  {
-    "model": "F10B8ND",
-    "title": "Стиральная машина с прямым приводом DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F10B8ND/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F10B8ND/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F10B8ND/3.png"
-    ],
-    "description": "•Inverter Direct Drive.<br>•6 Motion.<br>•Steam.<br>•Загрузка 6 кг.<br>•Smart Diagnosis."
-  },
 
-  {
-    "model": "F1096TD3",
-    "title": "Стиральная машина с прямым приводом DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F1096TD3/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F1096TD3/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F1096TD3/3.png"
-    ],
-    "description": "•Inverter Direct Drive.<br>•6 Motion.<br>•Steam.<br>•Загрузка 8 кг.<br>•Smart Diagnosis."
-  },
   {
     "model": "F2J3NS2W",
     "title": "Стиральная машина с прямым приводом DD™",
@@ -401,16 +361,6 @@
     "description": "•Inverter Direct Drive.<br>•6 Motion.<br>•Steam.<br>•Загрузка 6 кг.<br>•Smart Diagnosis."
   },
   {
-    "model": "F2V9GW9W",
-    "title": "Стиральная машина AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V9GW9W/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V9GW9W/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V9GW9W/3.png"
-    ],
-    "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•TurboWash39.<br>•Загрузка 8.5 кг.<br>•ThinQ."
-  },
-  {
     "model": "F2J3HS2W",
     "title": "Стиральная машина с прямым приводом DD™",
     "images": [
@@ -419,16 +369,6 @@
       "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2J3HS2W/3.png"
     ],
     "description": "•Inverter Direct Drive.<br>•6 Motion.<br>•Steam.<br>•Загрузка 7 кг.<br>•Smart Diagnosis."
-  },
-  {
-    "model": "F1296TD4",
-    "title": "Стиральная машина с прямым приводом DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F1296TD4/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F1296TD4/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F1296TD4/3.png"
-    ],
-    "description": "•Inverter Direct Drive.<br>•6 Motion.<br>•Steam.<br>•Загрузка 8 кг.<br>•Smart Diagnosis."
   },
   {
     "model": "F2J3HS4L",
@@ -459,16 +399,6 @@
       "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V5PS0W/3.png"
     ],
     "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•Загрузка 8 кг.<br>•ThinQ."
-  },
-  {
-    "model": "F2V3PS6W",
-    "title": "Стиральная машина AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V3PS6W/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V3PS6W/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2V3PS6W/3.png"
-    ],
-    "description": "•Inverter Direct Drive.<br>•Steam+.<br>•Загрузка 8 кг.<br>•Smart Diagnosis."
   },
   {
     "model": "F2V3FS4W",
@@ -569,16 +499,6 @@
       "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2Y1NS6W/3.png"
     ],
     "description": "•Прямой привод Direct Drive.<br>•Steam+.<br>•Загрузка 6 кг.<br>•Smart Diagnosis."
-  },
-  {
-    "model": "F2Y1HS5W",
-    "title": "Стиральная машина с прямым приводом DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2Y1HS5W/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2Y1HS5W/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-WM/F2Y1HS5W/3.png"
-    ],
-    "description": "•Прямой привод Direct Drive.<br>•Steam+.<br>•Загрузка 7 кг.<br>•Smart Diagnosis."
   },
   {
     "model": "F2Y1HS5J",
