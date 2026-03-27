@@ -9,16 +9,6 @@
     ],
     "description": "• Искусственный интеллект AI DD.<br>• Стирка 2в1: стирка + сушка.<br>• Стирка с паром Steam.<br>• Загрузка: 9/6 кг.<br>• ThinQ."
   },
-  {
-    "model": "F4V5VG2S",
-    "title": "Стиральная машина с сушкой AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F4V5VG2S/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F4V5VG2S/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F4V5VG2S/3.png"
-    ],
-    "description": "• Искусственный интеллект AI DD.<br>• Стирка 2в1: стирка + сушка.<br>• Стирка с паром Steam.<br>• Загрузка: 9/6 кг.<br>• ThinQ."
-  },
 
   {
     "model": "F2J6HG0W",
@@ -49,35 +39,5 @@
       "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V7FR2P/3.png"
     ],
     "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•TurboWash39.<br>•Загрузка 9 /5 кг.<br>•ThinQ."
-  },
-  {
-    "model": "F2V5GG2S",
-    "title": "Стиральная машина с сушкой AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V5GG2S/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V5GG2S/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V5GG2S/3.png"
-    ],
-    "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•TurboWash59.<br>•Загрузка 8.5 /5 кг.<br>•ThinQ."
-  },
-  {
-    "model": "F2V7FR2P",
-    "title": "Стиральная машина с сушкой AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V7FR2P/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V7FR2P/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V7FR2P/3.png"
-    ],
-    "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•TurboWash39.<br>•Загрузка 9 /5 кг.<br>•ThinQ."
-  },
-  {
-    "model": "F2V5GG2S",
-    "title": "Стиральная машина с сушкой AI DD™",
-    "images": [
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V5GG2S/1.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V5GG2S/2.png",
-      "https://raw.github.com/alen-omarbayev/tj-images/main/WM/WM-TWO-IN-ONE/F2V5GG2S/3.png"
-    ],
-    "description": "• Искусственный интеллект AI DD.<br>•Steam+.<br>•TurboWash59.<br>•Загрузка 8.5 /5 кг.<br>•ThinQ."
   }
 ]
